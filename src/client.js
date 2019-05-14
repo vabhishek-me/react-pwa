@@ -2,4 +2,6 @@
 import 'bulma/css/bulma.min.css';
 import './resources/css/global.css';
 
-export default class Client {}
+export default class Client {
+
+}
