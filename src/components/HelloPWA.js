@@ -26,7 +26,7 @@ const HelloPWA = () => {
   };
 
   return (
-    <section className="hero is-info is-fullheight">
+    <section className="hero is-info is-fullheight" style={{ textAlign: 'center' }}>
       <div className="hero-body">
         <div className="container">
           <h1 className="title">Hello PWA!</h1>

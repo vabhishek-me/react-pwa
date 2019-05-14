@@ -5,8 +5,8 @@ export default class Routes {
       name: 'React PWA',
       short_name: 'React PWA',
       start_url: '/',
-      background_color: '#fff',
-      theme_color: '#fff',
+      background_color: '#209cee',
+      theme_color: '#209cee',
       description: 'React PWA with mobile and desktop support',
       display: 'standalone',
       // icons: [
