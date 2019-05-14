@@ -8,7 +8,7 @@ export default class Routes {
       background_color: '#fff',
       theme_color: '#fff',
       description: 'React PWA with mobile and desktop support',
-      display: 'fullscreen',
+      display: 'standalone',
       // icons: [
       //   {
       //     src: "/path-to-pwa-icon-size-192x192.png",
